@@ -1,4 +1,4 @@
-# MCPE Login System ####MLS
+# MCPE Login System (MLS)
 とりあえず頑張る。
 ####  [特徴](##tokutyo)
 ####  [やることリスト](##list)
